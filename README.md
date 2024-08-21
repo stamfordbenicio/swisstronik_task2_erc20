@@ -1,0 +1,1 @@
+# swisstronik_task2_erc20
